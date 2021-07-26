@@ -1,0 +1,37 @@
+.main-content{
+    width: 350px;
+    height: 580px;
+    background-color: rgb(190, 233, 220);
+    align-items: center;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+button.gmail {
+    width: 220px;
+    border-radius: 20px;
+    color: white;
+    font-size: 18px;
+    background-color: #ff7259;
+}
+button.facebook {
+    width: 220px;
+    border-radius: 20px;
+    color: white;
+    font-size: 18px;
+    background-color: #5166d3;
+}
+button i{
+    font-size: 20px;
+}
+input{
+    width: 220px;
+    border-radius: 5px;
+    
+}
+.create-account{
+    width: 220px;
+    border-radius: 20px;
+    color: white;
+    font-size: 18px;
+    background-color: #0024d8;
+}
